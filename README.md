@@ -59,10 +59,3 @@ Copy `config.conf.example` to `config.conf`, and configure everything to your li
 
 When it's all done, start with `bash launch.sh`.
 
-
-## Contacts
-
-Style Mistake <[stylemistake@gmail.com]>
-
-[stylemistake.com]: http://stylemistake.com
-[stylemistake@gmail.com]: mailto:stylemistake@gmail.com
