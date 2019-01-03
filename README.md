@@ -10,7 +10,7 @@ Extremely simple IPTV solution for your grandparents!
    |                             | 
 +---------------+  +----------+  |   +--------------------+
 | Potentiometer |  | RPi  USB [--    |                    |
-|               |  |     HDMI [------|         TV         |
+| / remote      |  |     HDMI [------|         TV         |
 +---------------+  |     WIFI [--.   |                    |
                    +----------+  |   +---------++---------+
                                  |          ___||___
@@ -19,6 +19,8 @@ Extremely simple IPTV solution for your grandparents!
 +-------------------+
 ```
 
+- Raspberry pi zero with TVHAT sends chanels over wifi to raspberry pi in tv
+- channels are selected by using a potentiometer or remote
 
 ## Pre-requisites
 
