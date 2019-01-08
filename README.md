@@ -22,6 +22,13 @@ Extremely simple IPTV solution for your grandparents!
 - Raspberry pi zero with TVHAT sends chanels over wifi to raspberry pi in tv
 - channels are selected by using a potentiometer or remote
 
+
+possably usefull information:
+
+https://www.instructables.com/id/Rotary-Knob-Alternative-TV-Remote/
+https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-stream-digital-tv-with-the-raspberry-pi-tv-hat#Accessing%20Tvheadend
+https://www.raspberrypi.org/app/uploads/2018/10/Getting-started-with-the-Raspberry-Pi-TV-HAT.pdf
+
 ## Pre-requisites
 
 Player dependencies:
