@@ -50,6 +50,7 @@ Server dependencies (optional):
 
 _Note: Version numbers are just FYI._
 
+https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md
 
 ## Setup
 
