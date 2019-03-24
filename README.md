@@ -28,6 +28,7 @@ possably usefull information:
 https://www.instructables.com/id/Rotary-Knob-Alternative-TV-Remote/
 https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-stream-digital-tv-with-the-raspberry-pi-tv-hat#Accessing%20Tvheadend
 https://www.raspberrypi.org/app/uploads/2018/10/Getting-started-with-the-Raspberry-Pi-TV-HAT.pdf
+https://github.com/ppet36/openhab_dimmer
 
 ## Pre-requisites
 
