@@ -12,15 +12,15 @@ PLAYLIST_URL="http://localhost:8000/torrent-telik"
 ##    #EXTINF:-1 tvg-name="Foobar_TV",Foobar TV
 ##
 declare -A CHANNELS=(
-    [1]='Первый_канал'
-    [2]='Россия_1'
-    [3]='НТВ'
-    [4]='Звезда'
-    [5]='Пятый_канал'
-    [6]='Россия_24'
-    [7]='РЕН_ТВ'
-    [8]='СТС'
-    [9]='Беларусь_24'
+    [1]='TVNZ 1'
+    [2]='TVNZ 2'
+    [3]='TVNZ 3'
+    [4]='Bravo'
+    [5]='TVNZ 1+1'
+    [6]='TVNZ 2+1'
+    [7]='TVNZ Duke'
+    [8]='PRIME'
+    [9]='ChoiceTV'
 )
 
 ## Command to start the player.
