@@ -5,7 +5,7 @@ import os
 from evdev import InputDevice
 from select import select
 
-device = InputDevice('/dev/input/event0')
+device = InputDevice('/dev/input/event0')  # Change to potentiometer values
 keys = {
     '2': '1',
     '3': '2',
