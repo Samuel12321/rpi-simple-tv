@@ -19,7 +19,7 @@ Extremely simple IPTV solution for your grandparents!
 +-------------------+
 ```
 
-- Raspberry pi zero with TVHAT sends chanels over wifi to raspberry pi in tv
+- Raspberry pi zero with TVHAT running tv headend sends content by m3u over wifi to raspberry pi in tv
 - channels are selected by using a potentiometer or remote
 
 
