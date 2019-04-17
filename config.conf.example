@@ -1,10 +1,11 @@
 #!/bin/bash
 
 ## URL to your playlist.
-PLAYLIST_URL="http://localhost:8000/torrent-telik"
+#PLAYLIST_URL="http://localhost:8000/torrent-telik"
 # PLAYLIST_URL="http://<hostname>/playlist.m3u"
 # PLAYLIST_URL="file:///home/username/playlist.m3u"
 # TV HEadend = " URL format is htsp://{username{:password}@}server{:port}/channelId "
+PLAYLIST_URL="http://192.168.1.31:9981/playlist"
 
 ## Associative array of channels, where the "key" is the key pressed,
 ## and the "value" is the value of the "tvg-name" annotation.
